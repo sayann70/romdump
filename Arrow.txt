@@ -1,0 +1,7 @@
+Changelogs-
+17/09/23 
+- Initial Build With OSS Kernel 
+- Recovery Ramdisk Issue Fixed 
+- Added mising FCM entry
+- Added /boot and /recovery mountpoint
+- Updated DT2W node & Sepolicy 
